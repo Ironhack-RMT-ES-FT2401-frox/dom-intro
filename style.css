@@ -1,0 +1,31 @@
+#final-thoughts {
+  font-size: 25px;
+  padding: 10px;
+}
+
+#new-section-id {
+  font-size: 30px;
+  padding: 20px;
+}
+
+.after-footer {
+  background-color: rgb(60, 154, 123);
+  color: brown;
+}
+
+.nueva-clase {
+  text-decoration: underline;
+  background-color: salmon
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
